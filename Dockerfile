@@ -1,1 +1,2 @@
-FROM: centos
+FROM centos
+RUN yum install httpd -y 
